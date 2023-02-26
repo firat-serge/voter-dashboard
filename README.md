@@ -3,5 +3,5 @@
 ![GitHub language count](https://img.shields.io/github/languages/code-size/firat-serge/voter-dashboard?color=red)
 # VOTERS DASHBOARD 
 ## Basic Overview
-This is an academic project for an introduction into programming for a **_masters in Geospatial technology_** course 2023.
-This tool involved the creation of a database, ETL and API. The objective of this tool is to display voters related statistics.
+This is an academic project for an introduction into programming for a **_Masters in Geospatial technologies_** course 2023. This tool involved the creation of a database, ETL and API. The objective of this tool is to display voters related statistics.
+![progprocess](https://user-images.githubusercontent.com/126392767/221442929-eed7d2f9-4f38-47fe-8169-ce533fcbf8c7.PNG)
