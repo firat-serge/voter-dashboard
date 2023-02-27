@@ -16,10 +16,10 @@ Various packages and extension are necessary to create the environment to enable
 <br>`conda install --file requirements.txt --channel conda-forge`
 <br>`View: sa.votes_geojson`
 ## Data
-Firat Kindly shed some light on data sourcing
+Data  for the dashboard is gotten from website where it is tranformed using the ETL Script.
 ## Database
 Firat to state how we can recreate the database please
 ## ETL
-To be done tomorrow
+Files are imported and processed. Some mathemathical functions are performed on some parts of the table creating further new columns whilst other data is removed from the table in a process of claning.
 ## API
 The API enables the user to get information from the database. 
