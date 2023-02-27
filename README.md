@@ -10,3 +10,14 @@ The figure above represents the processess involved which included:
 * The coding process itself which was predominatly done using python and some R
 * Extraction and visualization of the  data and given its geodata, the necessity of representation of some form of maps.
 * The establishment of the dashboard itself which had to display information in various formats.
+Various packages and extension are necessary to create the environment to enable us go from the database to the display of the dashboard. The packages necessary and database viewing are:
+`conda install --file requirements.txt --channel conda-forge`
+`View: sa.votes_geojson`
+## Data
+Firat Kindly shed some light on data sourcing
+## Database
+Firat to state how we created the database please
+## ETL
+To be done tomorrow
+## API
+To be done tomorrow
