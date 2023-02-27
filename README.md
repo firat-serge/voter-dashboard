@@ -11,8 +11,8 @@ The figure above represents the processess involved which included:
 * Extraction and visualization of the  data and given its geodata, the necessity of representation of some form of maps.
 * The establishment of the dashboard itself which had to display information in various formats.
 Various packages and extension are necessary to create the environment to enable us go from the database to the display of the dashboard. The packages necessary and database viewing are:
-|`conda install --file requirements.txt --channel conda-forge`
-|`View: sa.votes_geojson`
+<br>`conda install --file requirements.txt --channel conda-forge`
+<br>`View: sa.votes_geojson`
 ## Data
 Firat Kindly shed some light on data sourcing
 ## Database
