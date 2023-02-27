@@ -20,6 +20,6 @@ Data  for the dashboard is gotten online from where it is tranformed using the E
 ## Database
 The database is created in pgAdmin4. It is composed of a single table with multiple rows. Find attached the script for creating the database. <a href="https://github.com/firat-serge/voter-dashboard/commit/5441eb9404588791d2072bc3f53fe0b7bc48628c">creating table</a>
 ## ETL
-Files are imported and processed. Some mathemathical functions are performed on some parts of the table creating further new columns whilst other data is removed from the table in a process of cleaning. <a href="https://github.com/firat-serge/voter-dashboard/blob/main/etl.py">etl</a>
+Files are imported and processed. Some mathemathical functions are performed on some parts of the table creating further new columns whilst other data is removed from the table in a process of cleaning. Percentage votes is calculated and the resulting column is renamed. Find attached the script for the <a href="https://github.com/firat-serge/voter-dashboard/blob/main/etl.py">etl</a>
 ## API
-The API enables the user to get information from the database. 
+The API enables the user to get information from the database.  <a href="https://github.com/firat-serge/voter-dashboard/blob/main/main1.py">main.py</a>
