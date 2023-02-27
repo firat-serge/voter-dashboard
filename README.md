@@ -18,7 +18,7 @@ Various packages and extension are necessary to create the environment to enable
 ## Data
 Data  for the dashboard is gotten online from where it is tranformed using the ETL Script. The data is transformed from shapefile to JSON.
 ## Database
-The database is created in pgAdmin4. It is composed of a single table with multiple rows. Find attached the script for creating the database. [creating - table](https://github.com/firat-serge/voter-dashboard/commit/5441eb9404588791d2072bc3f53fe0b7bc48628c)
+The database is created in pgAdmin4. It is composed of a single table with multiple rows. Find attached the script for creating the database. <a href="https://github.com/firat-serge/voter-dashboard/commit/5441eb9404588791d2072bc3f53fe0b7bc48628c">creating table</a>
 ## ETL
 Files are imported and processed. Some mathemathical functions are performed on some parts of the table creating further new columns whilst other data is removed from the table in a process of claning.
 ## API
