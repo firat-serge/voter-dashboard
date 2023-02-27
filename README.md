@@ -16,7 +16,7 @@ Various packages and extension are necessary to create the environment to enable
 ## Data
 Firat Kindly shed some light on data sourcing
 ## Database
-Firat to state how we created the database please
+Firat to state how we can recreate the database please
 ## ETL
 To be done tomorrow
 ## API
