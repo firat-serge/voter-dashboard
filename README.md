@@ -16,9 +16,9 @@ Various packages and extension are necessary to create the environment to enable
 <br>`conda install --file requirements.txt --channel conda-forge`
 <br>`View: sa.votes_geojson`
 ## Data
-Data  for the dashboard is gotten from website where it is tranformed using the ETL Script.
+Data  for the dashboard is gotten online from where it is tranformed using the ETL Script. The data is transformed from shapefile to JSON.
 ## Database
-Firat to state how we can recreate the database please
+The database is created in pgAdmin4. It is composed of a single table with multiple rows. Find attached the script for creating the database. [creating - table](https://github.com/firat-serge/voter-dashboard/commit/5441eb9404588791d2072bc3f53fe0b7bc48628c)
 ## ETL
 Files are imported and processed. Some mathemathical functions are performed on some parts of the table creating further new columns whilst other data is removed from the table in a process of claning.
 ## API
