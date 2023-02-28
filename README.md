@@ -27,4 +27,4 @@ Files were obtained in the form of shapefiles. The transformation phase involves
 
 <br>Here in blue is the script for the <a href="https://github.com/firat-serge/voter-dashboard/blob/main/etl.py">etl</a>
 ## API
-The API enables the user to get information from the database.  Given the data was massive, we linked the API  to a second dataset which we created with fewer but more relevant information.<a href="https://github.com/firat-serge/voter-dashboard/blob/main/main1.py">main.py</a>
+The API enables the user to get information from the database.  Given the data was massive, we linked the API  to a second dataset which we created with fewer but more relevant information. Here in blue is the script for the <a href="https://github.com/firat-serge/voter-dashboard/blob/main/main1.py">main.py</a>
