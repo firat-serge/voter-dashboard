@@ -20,11 +20,11 @@ Data  for the dashboard is gotten online. This data is downloaded and stored in 
 ## Database
 The database is created in pgAdmin4. It is composed of a single table with multiple rows. Find attached the script for creating the database. <a href="https://github.com/firat-serge/voter-dashboard/commit/5441eb9404588791d2072bc3f53fe0b7bc48628c">creating table</a>
 ## ETL
-Files were obtained in the form of shapefiles. The transformation phase involves changing the format of these files from shapefiles to .gdf file. The geometry part of the files is moved to a geometry column.
+Files were obtained in the form of shapefiles. The transformation phase involves changing the format of these files from shapefiles to .gdf file. The geometry part of the files is moved to a geometry column. The extraction code is not really there because we already downloaded our data.
 
 <br>Some mathemathical functions are performed on some parts of the table creating further new columns. Percentage votes is calculated and the resulting column is renamed. 
 <br>`gdf["AKP_per"] = (gdf["AKP"] / gdf["Valid_Votes"])*100`
 
-<br>Find attached the script for the <a href="https://github.com/firat-serge/voter-dashboard/blob/main/etl.py">etl</a>
+<br>Here in blue is the script for the <a href="https://github.com/firat-serge/voter-dashboard/blob/main/etl.py">etl</a>
 ## API
-The API enables the user to get information from the database.  <a href="https://github.com/firat-serge/voter-dashboard/blob/main/main1.py">main.py</a>
+The API enables the user to get information from the database.  Given the data was massive, we linked the API  to a second dataset which we created with fewer but more relevant information.<a href="https://github.com/firat-serge/voter-dashboard/blob/main/main1.py">main.py</a>
