@@ -1,4 +1,4 @@
-![LOGO2](https://user-images.githubusercontent.com/126392767/221829829-97950533-095d-41bc-a250-b9e75b34cf08.PNG)
+![LOGO3](https://user-images.githubusercontent.com/126392767/221878936-486071f4-a562-42e1-88ac-972ef462deb8.PNG)
 ![GitHub language count](https://img.shields.io/github/languages/count/firat-serge/voter-dashboard)
 ![GitHub language count](https://img.shields.io/github/languages/code-size/firat-serge/voter-dashboard?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/firat-serge/voter-dashboard?color=orange)
