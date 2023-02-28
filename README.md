@@ -2,7 +2,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/firat-serge/voter-dashboard)
 ![GitHub language count](https://img.shields.io/github/languages/code-size/firat-serge/voter-dashboard?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/firat-serge/voter-dashboard?color=orange)
-# VOTERS DASHBOARD 
+# VOTING DASHBOARD 
 ## Basic Overview
 This is an academic project for an introduction into programming for a **_Masters in Geospatial technologies_** course 2023. This tool involved the creation of a database, ETL and API. The objective of this tool is to display voters related statistics. 
 <br>The current state represents a work in progress of what is actually intended. Not all componnents are fully operational yet, but the schema below represents what the ultimate process ideally would look like.
