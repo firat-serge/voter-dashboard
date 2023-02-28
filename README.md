@@ -16,7 +16,7 @@ Various packages and extension are necessary to create the environment to enable
 <br>`conda install --file requirements.txt --channel conda-forge`
 <br>`View: sa.votes_geojson`
 ## Data
-Data  for the dashboard is gotten online. This data is downloaded and stored in the form of shapefiles, same way iot is obtained. The data is transformed from shapefile to JSON.
+Data  for the dashboard is gotten online. This data is downloaded and stored in the form of shapefiles, same way it is obtained. The data is transformed from shapefile to JSON.
 ## Database
 The database is created in pgAdmin4. It is composed of a single table with multiple rows. Find attached the script for creating the database. <a href="https://github.com/firat-serge/voter-dashboard/commit/5441eb9404588791d2072bc3f53fe0b7bc48628c">creating table</a>
 ## ETL
